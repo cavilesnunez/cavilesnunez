@@ -1,24 +1,23 @@
 # Carlos Felipe Aviles Nuñez 🌟
 
-> Ingeniería en Sistemas Computacionales  
-> 📍 Ciudad de México, México
+> Computer Systems Engineering  
+> 📍 Mexico City, Mexico
 
 📩 **[carlosfavilesn@gmail.com](mailto:carlosfavilesn@gmail.com)** | 🌐 [LinkedIn](www.linkedin.com/in/carlos-felipe-aviles-nuñez-0aaa8385)
 
 ---
 
-## 🛠 Aptitudes principales
+## 🛠 Core Skills
 
 `CSS3` `AJAX` `ECMAScript`
 
 ---
 
-## 🎖 Certificaciones
+## 🎖 Certifications
 
 - 🌐 JavaScript
-- 🖌 Carrera de Desarrollo FrontendReact
+- 🖌 Frontend Development with React
 - ⚛ React Js
-- 🌍 Desarrollo Web
+- 🌍 Web Development
 
-
-
+---
