@@ -9,7 +9,7 @@
 
 ## 🛠 Core Skills
 
-`CSS3` `AJAX` `ECMAScript`
+`CSS3` `AJAX` `ECMAScript` `TailwindCSS` `NextJs` `NodeJs` `PHP`
 
 ---
 
