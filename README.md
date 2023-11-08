@@ -18,12 +18,13 @@
 
 <!-- Insignias de habilidades -->
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![AJAX](https://img.shields.io/badge/AJAX-030303?style=for-the-badge&logo=ajax)
+![AJAX](https://img.shields.io/badge/AJAX-030303?style=for-the-badge&logo=jquery)  <!-- AJAX no tiene un logo en shields.io, por lo que usé jQuery, que es comúnmente asociado con AJAX -->
 ![ECMAScript](https://img.shields.io/badge/ECMAScript-FFD700?style=for-the-badge&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js) <!-- He cambiado el color de 'black' a '000000' por si acaso era un error de interpretación de color -->
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
 
 <hr>
 
