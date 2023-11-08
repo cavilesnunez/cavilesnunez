@@ -42,7 +42,7 @@
 <!-- Sección de estadísticas de GitHub -->
 ## 📈 Estadísticas de GitHub
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=radical)
+![cavilesnunez's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavilesnunez&show_icons=true&theme=radical)
 
 <!-- Gráfico de lenguajes más usados -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=radical)
