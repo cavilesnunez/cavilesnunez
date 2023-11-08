@@ -61,12 +61,17 @@
 ## 💫 Proyectos Destacados
 
 <!-- Repositorios como tarjetas -->
-<a href="https://github.com/cavilesnunez/nombre-del-repositorio-1">
+<a href="https://github.com/cavilesnunez/Entrega-Final-ReactJs-Carlos-Aviles">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=nombre-del-repositorio-1&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/cavilesnunez/nombre-del-repositorio-2">
+<a href="https://github.com/cavilesnunez/Entrega_Final_JS_Carlos_Aviles">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=nombre-del-repositorio-1&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/cavilesnunez/entregafinalcaviles">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=nombre-del-repositorio-2&theme=vision-friendly-dark" />
 </a>
+
+
 
 
 <!-- Asegúrate de dejar un poco de espacio entre las tarjetas de los proyectos -->
