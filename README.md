@@ -62,13 +62,13 @@
 
 <!-- Repositorios como tarjetas -->
 <a href="https://github.com/cavilesnunez/Entrega-Final-ReactJs-Carlos-Aviles">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=nombre-del-repositorio-1&theme=vision-friendly-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=Entrega-Final-ReactJs-Carlos-Aviles&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/cavilesnunez/Entrega_Final_JS_Carlos_Aviles">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=nombre-del-repositorio-1&theme=vision-friendly-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=Entrega_Final_JS_Carlos_Aviles&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/cavilesnunez/entregafinalcaviles">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=nombre-del-repositorio-2&theme=vision-friendly-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=entregafinalcaviles&theme=vision-friendly-dark" />
 </a>
 
 
