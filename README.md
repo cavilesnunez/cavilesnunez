@@ -61,12 +61,13 @@
 ## 💫 Proyectos Destacados
 
 <!-- Repositorios como tarjetas -->
-<a href="URL_DE_TU_PROYECTO_1">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TuNombreDeUsuario&repo=NombreDelRepositorio1&theme=vision-friendly-dark" />
+<a href="https://github.com/cavilesnunez/nombre-del-repositorio-1">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=nombre-del-repositorio-1&theme=vision-friendly-dark" />
 </a>
-<a href="URL_DE_TU_PROYECTO_2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TuNombreDeUsuario&repo=NombreDelRepositorio2&theme=vision-friendly-dark" />
+<a href="https://github.com/cavilesnunez/nombre-del-repositorio-2">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cavilesnunez&repo=nombre-del-repositorio-2&theme=vision-friendly-dark" />
 </a>
+
 
 <!-- Asegúrate de dejar un poco de espacio entre las tarjetas de los proyectos -->
 <br><br><br><br><br><br><br><br><br>
