@@ -39,13 +39,13 @@
 
 <hr>
 
-<!-- Sección de estadísticas de GitHub -->
 ## 📈 Estadísticas de GitHub
 
 ![cavilesnunez's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavilesnunez&show_icons=true&theme=radical)
 
-<!-- Gráfico de lenguajes más usados -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=radical)
+## 🌐 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavilesnunez&layout=compact&theme=radical)
 
 <!-- Iniciar una sección de contribuciones y actividad reciente -->
 ## 🌌 Contribuciones y Actividad Reciente
